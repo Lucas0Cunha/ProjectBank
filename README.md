@@ -1,6 +1,6 @@
 Projeto Banco Lucas
 
-Este é um projeto fictício de um sistema bancário desenvolvido em Java. O objetivo deste sistema é simular as operações básicas de um banco, como abertura de contas, depósitos, saques, transferências, entre outros.
+Este é um projeto fictício de um sistema bancário desenvolvido em Java utilizando testes unitário para observar a performance do programa. O objetivo deste sistema é simular as operações básicas de um banco, como abertura de contas, depósitos, saques, transferências, entre outros.
 Funcionalidades Implementadas
 
     Cadastro de Clientes: Permite a criação de novos clientes com informações básicas como nome, CPF ou CNPJ.
